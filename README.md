@@ -32,7 +32,7 @@ npm install create-structure-cli
 
 ### Using npx (No Installation Required)
 ```bash
-npx create-structure
+npx create-structure-cli
 ```
 
 ## 🚀 Quick Start
