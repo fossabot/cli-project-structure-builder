@@ -1,4 +1,4 @@
-# create-structure
+# create-structure-cli
 
 <!-- [![npm version](https://badge.fury.io/js/create-structure.svg)](https://badge.fury.io/js/create-structure)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
@@ -22,12 +22,12 @@ Quickly scaffold project directories, organize file structures, and set up devel
 
 ### Global Installation (Recommended)
 ```bash
-npm install -g create-structure
+npm install -g create-structure-cli
 ```
 
 ### Local Installation
 ```bash
-npm install create-structure
+npm install create-structure-cli
 ```
 
 ### Using npx (No Installation Required)

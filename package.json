@@ -1,5 +1,5 @@
 {
-  "name": "create-structure",
+  "name": "create-structure-cli",
   "version": "1.0.0",
   "description": "Create a project structure from text or JSON input",
   "bin": {
