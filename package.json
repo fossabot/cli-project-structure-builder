@@ -1,6 +1,6 @@
 {
   "name": "create-structure-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a project structure from text or JSON input",
   "bin": {
     "create-structure": "./cli.js"
@@ -9,7 +9,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["cli", "project-structure", "folders", "automation"],
+  "keywords": [
+    "cli",
+    "project-structure",
+    "folders",
+    "automation"
+  ],
   "author": "Sayantan Chakraborty",
   "license": "MIT",
   "dependencies": {}
