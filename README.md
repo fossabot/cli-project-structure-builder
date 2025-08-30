@@ -1,7 +1,8 @@
 # create-structure-cli
 
 <!-- [![npm version](https://badge.fury.io/js/create-structure.svg)](https://badge.fury.io/js/create-structure)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSayantanCode%2Fcli-project-structure-builder.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSayantanCode%2Fcli-project-structure-builder?ref=badge_shield)
+-->
 <!-- [![Node.js Version](https://img.shields.io/node/v/create-structure.svg)](https://nodejs.org/en/download/) -->
 
 > 🚀 A powerful CLI tool to instantly create directory structures from text files or JSON templates
@@ -164,6 +165,9 @@ I welcome contributions! Please follow the [Contributing Guidelines](https://git
 ## 📝 License
 
 This project is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSayantanCode%2Fcli-project-structure-builder.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSayantanCode%2Fcli-project-structure-builder?ref=badge_large)
 
 ## 📝 Issues
 
